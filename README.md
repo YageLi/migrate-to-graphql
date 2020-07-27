@@ -16,3 +16,4 @@ Check this [pull request](https://github.com/haldarmahesh/migrate-rest-api-to-gr
 
 ## Info
 The base app structure is generated using express generator. 
+# migrate-to-graphql
